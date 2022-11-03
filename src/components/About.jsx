@@ -27,6 +27,12 @@ const About = () => {
         <br />
 
         <p className="text-xl">
+          As a developer, joining SovTech would be a dream, 
+          the main draw for me is the company culture, well-defined by the SovTech Specs. 
+          The Adapt Spec resonates with me mostly due to the fact that 
+          I've grown so much as a developer by having to adapt constantly and be adjustible.
+          I find it inspiring to work with others who challenge you and as a result, 
+          adaptation is a core value of mine- it's how I've thrived under pressure in my coding career.
           
         </p>
       </div>
